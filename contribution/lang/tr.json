@@ -7114,9 +7114,9 @@
  	 	"loveWords": {
  	 	 	"trans": [
  	 	 	 	"Seni seviyorum",
- 	 	 	 	"Siz harika birisiniz",
+ 	 	 	 	"Siz harikasınız",
  	 	 	 	"Siz en iyisisiniz",
- 	 	 	 	"Sizi seviyorum",
+ 	 	 	 	"Hepinizi seviyorum",
  	 	 	 	"İnanılmazsın",
  	 	 	 	"En iyi arkadaşız",
  	 	 	 	"Hepinizi seviyorum",
@@ -7259,13 +7259,13 @@
  	 	 	"eng": "Enemies and AI Core auto farm will have chance to drop Jack-o-lanterns! you can use these to craft Locked Legendary Containers!"
  	 	},
  	 	"desc3": {
- 	 	 	"trans": "Cadılar Bayramı sırasında, Time Limited Cyber-Bat sohbet bağış katmanı sunulacak!",
+ 	 	 	"trans": "Cadılar Bayramı sırasında, sınırlı süreli Cyber-Bat sohbet bağış katmanı sunulacak!",
  	 	 	"eng": "During Halloween, a time limited cyber-bat chat donation tier will be available!"
  	 	}
  	},
  	"lunarPromo": {
  	 	"title": {
- 	 	 	"trans": "Mutlu Ay Yeni Yıl!",
+ 	 	 	"trans": "Mutlu Ay Yeni Yılı!",
  	 	 	"eng": "Happy Lunar New year!"
  	 	},
  	 	"desc1": {
@@ -7326,7 +7326,7 @@
  	 	 	 	"eng": "How to refer?"
  	 	 	},
  	 	 	"step1": {
- 	 	 	 	"trans": "2. bitti, bu kadar!",
+ 	 	 	 	"trans": "1. Karakter oluşturma sırasında arkadaşınızın oyun içi adınızı girmesini sağlayın",
  	 	 	 	"eng": "1. Have your friend enter your in-game name during character creation"
  	 	 	},
  	 	 	"step2": {
@@ -7378,7 +7378,7 @@
  	},
  	"selectItemModal": {
  	 	"noItems": {
- 	 	 	"trans": "Mevcut ürün yok",
+ 	 	 	"trans": "Kullanılabilir öğe yok",
  	 	 	"eng": "No available items"
  	 	}
  	},
@@ -7524,7 +7524,7 @@
  	},
  	"forgotPasswordPage": {
  	 	"title": {
- 	 	 	"trans": "E -postanızı girin, sistem size bir sıfırlama şifre e -postası gönderecektir",
+ 	 	 	"trans": "E -postanızı girin, sistem size bir şifre sıfırlama e-postası gönderecektir",
  	 	 	"eng": "Enter your email, the system will send a reset password email to you"
  	 	},
  	 	"emailRequired": {
@@ -7539,7 +7539,7 @@
  	 	 	"vars": [
  	 	 	 	"email"
  	 	 	],
- 	 	 	"trans": "{E -posta} adresine bir şifre sıfırlama e -posta gönderildi",
+ 	 	 	"trans": "{E -posta} adresine bir şifre sıfırlama e -postası gönderildi",
  	 	 	"eng": "An password reset email has been sent to {email}"
  	 	},
  	 	"checkEmail": {
@@ -7657,11 +7657,11 @@
  	"player": {
  	 	"error": {
  	 	 	"deleteWhileMuted": {
- 	 	 	 	"trans": "Sessiz kaldığınızda hesabınızı silemezsiniz.",
+ 	 	 	 	"trans": "Susturulmanız varken hesabınızı silemezsiniz.",
  	 	 	 	"eng": "You can't delete your account when you are muted."
  	 	 	},
  	 	 	"deleteAccountTooEarly": {
- 	 	 	 	"trans": "Şimdi bu hesabı silemezsiniz, lütfen birkaç gün bekleyin",
+ 	 	 	 	"trans": "Şuan bu hesabı silemezsiniz, lütfen birkaç gün bekleyin",
  	 	 	 	"eng": "You can't delete this account now, please wait a few days"
  	 	 	},
  	 	 	"playerNotFound": {
